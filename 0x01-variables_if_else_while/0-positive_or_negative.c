@@ -22,3 +22,4 @@ int main(void) /* main script here */
 	else
 		printf("%d is negative\n", n);  /* negative side*/
 	return (0);
+}
